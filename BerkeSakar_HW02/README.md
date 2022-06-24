@@ -12,3 +12,16 @@ One main project and two different java projects in it with the maven build syst
 
 ### Input Format:1st_team 1st_team_score-2nd_team_score 2nd_team
 
+#### Test Cases
+No input->
+
+![case1](Images/case1.PNG)
+
+Only one team->
+
+![case2](Images/case2.PNG)
+
+Correct input->
+
+![case3](Images/case3.PNG)
+
